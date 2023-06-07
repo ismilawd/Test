@@ -1,4 +1,6 @@
 {
     "name": "test",
-    "author": {"name": "Milad"}
+    "author": {"name": "Milad"},
+    "os":"Windows10"
+
 }
